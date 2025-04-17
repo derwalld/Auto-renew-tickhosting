@@ -1,3 +1,25 @@
-Last renewal time: 2025-04-13 03:12:37
+Last renewal time: 2025-04-17 01:49:57
 Status: Failed
-Error message: An error occurred: Failed to reach dashboard
+Error message: An error occurred: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E5B41F55+78133]
+	GetHandleVerifier [0x00007FF7E5B41FB0+78224]
+	(No symbol) [0x00007FF7E59091BA]
+	(No symbol) [0x00007FF7E594B929]
+	(No symbol) [0x00007FF7E594666E]
+	(No symbol) [0x00007FF7E59419DD]
+	(No symbol) [0x00007FF7E5995108]
+	(No symbol) [0x00007FF7E59946E0]
+	(No symbol) [0x00007FF7E5986F33]
+	(No symbol) [0x00007FF7E5950358]
+	(No symbol) [0x00007FF7E59510C3]
+	GetHandleVerifier [0x00007FF7E5E0BA8D+3001453]
+	GetHandleVerifier [0x00007FF7E5E05E72+2977874]
+	GetHandleVerifier [0x00007FF7E5E2497D+3103581]
+	GetHandleVerifier [0x00007FF7E5B5C7EA+186826]
+	GetHandleVerifier [0x00007FF7E5B643FF+218591]
+	GetHandleVerifier [0x00007FF7E5B49D94+110452]
+	GetHandleVerifier [0x00007FF7E5B49F42+110882]
+	GetHandleVerifier [0x00007FF7E5B30379+5465]
+	BaseThreadInitThunk [0x00007FFF2F784CB0+16]
+	RtlUserThreadStart [0x00007FFF3057EDCB+43]
